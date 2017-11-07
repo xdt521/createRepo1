@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1bfe6270-9717-4b8a-a5aa-9701b2181c5e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/createRepo1.iml" afterPath="$PROJECT_DIR$/.idea/createRepo1.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.txt" afterPath="$PROJECT_DIR$/test.txt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,20 +36,20 @@
       <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+            <state relative-caret-position="255">
+              <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
               <folding>
-                <marker date="1510023109000" expanded="true" signature="21947:21989" ph="..." />
-                <marker date="1510023109000" expanded="true" signature="21947:22007" ph="..." />
-                <marker date="1510023109000" expanded="true" signature="21947:22020" ph="..." />
-                <marker date="1510023109000" expanded="true" signature="21947:22035" ph="..." />
-                <marker date="1510023109000" expanded="true" signature="22070:22453" ph="..." />
-                <marker date="1510023109000" expanded="true" signature="22083:22438" ph="..." />
-                <marker date="1510023109000" expanded="true" signature="22118:22424" ph="..." />
-                <marker date="1510023109000" expanded="true" signature="22137:22409" ph="..." />
-                <marker date="1510023109000" expanded="true" signature="22211:22389" ph="..." />
-                <marker date="1510023109000" expanded="true" signature="22251:22355" ph="..." />
-                <marker date="1510023109000" expanded="true" signature="22272:22333" ph="..." />
+                <marker date="1510023334000" expanded="true" signature="22335:22377" ph="..." />
+                <marker date="1510023334000" expanded="true" signature="22335:22395" ph="..." />
+                <marker date="1510023334000" expanded="true" signature="22335:22408" ph="..." />
+                <marker date="1510023334000" expanded="true" signature="22335:22423" ph="..." />
+                <marker date="1510023334000" expanded="true" signature="22458:22841" ph="..." />
+                <marker date="1510023334000" expanded="true" signature="22471:22826" ph="..." />
+                <marker date="1510023334000" expanded="true" signature="22506:22812" ph="..." />
+                <marker date="1510023334000" expanded="true" signature="22525:22797" ph="..." />
+                <marker date="1510023334000" expanded="true" signature="22599:22777" ph="..." />
+                <marker date="1510023334000" expanded="true" signature="22639:22743" ph="..." />
+                <marker date="1510023334000" expanded="true" signature="22660:22721" ph="..." />
               </folding>
             </state>
           </provider>
@@ -60,8 +58,8 @@
       <file leaf-file-name="createRepo1.iml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.idea/createRepo1.iml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <state relative-caret-position="75">
+              <caret line="5" column="38" lean-forward="false" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -252,16 +250,15 @@
       <updated>1507538600069</updated>
       <workItem from="1507538601387" duration="239000" />
       <workItem from="1507548290362" duration="2965000" />
-      <workItem from="1510023038244" duration="99000" />
+      <workItem from="1510023038244" duration="339000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3303000" />
+    <option name="totallyTimeSpent" value="3543000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="819" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -339,28 +336,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+        <state relative-caret-position="255">
+          <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
           <folding>
-            <marker date="1510023109000" expanded="true" signature="21947:21989" ph="..." />
-            <marker date="1510023109000" expanded="true" signature="21947:22007" ph="..." />
-            <marker date="1510023109000" expanded="true" signature="21947:22020" ph="..." />
-            <marker date="1510023109000" expanded="true" signature="21947:22035" ph="..." />
-            <marker date="1510023109000" expanded="true" signature="22070:22453" ph="..." />
-            <marker date="1510023109000" expanded="true" signature="22083:22438" ph="..." />
-            <marker date="1510023109000" expanded="true" signature="22118:22424" ph="..." />
-            <marker date="1510023109000" expanded="true" signature="22137:22409" ph="..." />
-            <marker date="1510023109000" expanded="true" signature="22211:22389" ph="..." />
-            <marker date="1510023109000" expanded="true" signature="22251:22355" ph="..." />
-            <marker date="1510023109000" expanded="true" signature="22272:22333" ph="..." />
+            <marker date="1510023334000" expanded="true" signature="22335:22377" ph="..." />
+            <marker date="1510023334000" expanded="true" signature="22335:22395" ph="..." />
+            <marker date="1510023334000" expanded="true" signature="22335:22408" ph="..." />
+            <marker date="1510023334000" expanded="true" signature="22335:22423" ph="..." />
+            <marker date="1510023334000" expanded="true" signature="22458:22841" ph="..." />
+            <marker date="1510023334000" expanded="true" signature="22471:22826" ph="..." />
+            <marker date="1510023334000" expanded="true" signature="22506:22812" ph="..." />
+            <marker date="1510023334000" expanded="true" signature="22525:22797" ph="..." />
+            <marker date="1510023334000" expanded="true" signature="22599:22777" ph="..." />
+            <marker date="1510023334000" expanded="true" signature="22639:22743" ph="..." />
+            <marker date="1510023334000" expanded="true" signature="22660:22721" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/createRepo1.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        <state relative-caret-position="75">
+          <caret line="5" column="38" lean-forward="false" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
           <folding />
         </state>
       </provider>
